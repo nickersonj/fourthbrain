@@ -127,6 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 .DS_Store
 
 assignments/week-03-reddit-sentiment-analysis/nb/secrets_reddit.py
+=======
+
+# Mac DS_Store
+.DS_Store
+>>>>>>> e53339d23e4066b91eb98cfb98f4f2e8e96124c7
